@@ -97,3 +97,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity
+
+# Build output (subir como GitHub Release, no al código)
+/ProyectoFinal/
+/ProyectoFinal.zip
+*.zip
+
+# Paquetes de terceros auto-instalables
+/Packages/com.merry-yellow.code-assist/
